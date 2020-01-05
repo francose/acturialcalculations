@@ -1,3 +1,11 @@
+## Project description
+
+This package includes financial math calculations for actuarial calculations such as annuity calculations, amortization schedule, sinking fund calculations and constructing tables with those formulas.
+
+## Installation
+
+pip install actuarialCalculations
+
 ## Calculate Amortization & Sinking Fund
 
 **_method takes 4 parameters_**
